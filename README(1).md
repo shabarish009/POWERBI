@@ -5,7 +5,7 @@ This repository contains a dataset of sales orders and a Power BI visualization 
 
 ## Dataset
 
-The dataset is provided in an Excel file named `23.6.24 (DataSet).xlsx` with the following columns:
+The dataset is provided in an [Excel](https://github.com/shabarish009/POWERBI/blob/3b8f251e0f1433f2d6064cef41dcfee0369602df/23.6.24%20(DataSet).xlsx) with the following columns:
 
 - `Row ID`: Unique identifier for each row.
 - `Order ID`: Unique identifier for each order.
@@ -62,9 +62,9 @@ The Power BI visualization file `Visualization.pbix` provides various insights a
 7. **What is the distribution of profit for each customer?**
    - **Visualization:** Customer Profit Distribution
 
-### Worksheet Descriptions
+### Dashboard Descriptions
 
-#### Worksheet 1:
+#### Dashboard 1:
 
 1. **Total Sales**: Displays the total sales amount.
 2. **Total Profit**: Shows the total profit amount.
@@ -77,7 +77,7 @@ The Power BI visualization file `Visualization.pbix` provides various insights a
 9. **Total Sales Forecast: 2014-2017**: Line chart forecasting total sales from 2014 to 2017.
 10. **Total Sales by City and Region**: Map visual showing total sales distribution across different cities and regions globally.
 
-#### Worksheet 2:
+#### Dashboard 2:
 
 1. **Total Sales**: Repeats the total sales amount.
 2. **Total Profit**: Repeats the total profit amount.
@@ -89,23 +89,6 @@ The Power BI visualization file `Visualization.pbix` provides various insights a
 8. **Profit by Customer and Order ID**: Table listing profit by customer and order ID.
 9. **Ship Mode**: Filter to filter data based on different shipping modes.
 
-## Getting Started
-
-### Prerequisites
-
-To view and interact with the Power BI visualization file, you need to have Power BI Desktop installed on your machine. You can download it from [here](https://powerbi.microsoft.com/desktop/).
-
-### Viewing the Visualization
-
-1. Clone this repository to your local machine using:
-   ```bash
-   git clone https://github.com/yourusername/sales-orders-analysis.git
-   ```
-
-2. Open the `Visualization.pbix` file in Power BI Desktop.
-
-3. Explore the various reports and dashboards to gain insights from the sales data.
-
 ## Usage
 
 Feel free to use the dataset and visualizations for your own analysis and reporting. You can modify the Power BI file to add new visualizations or update the existing ones based on your requirements.
@@ -113,11 +96,3 @@ Feel free to use the dataset and visualizations for your own analysis and report
 ## Contributing
 
 If you have any suggestions or improvements, please open an issue or submit a pull request. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to the team for their hard work in preparing the dataset and creating the visualizations.
