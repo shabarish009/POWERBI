@@ -3,6 +3,10 @@
 
 This repository contains a dataset of sales orders and a Power BI visualization file to analyze and understand the sales performance. The dataset includes detailed information about each order, including dates, customer details, shipping information, and financial metrics.
 
+## Visualization
+
+[Find the visualization here.](https://github.com/shabarish009/POWERBI/blob/0694e4a8b8ceb1c3474e3a09bf25d23fc1dd5839/Visualization.pbix)
+
 ## Dataset
 
 The dataset is provided in an [Excel](https://github.com/shabarish009/POWERBI/blob/3b8f251e0f1433f2d6064cef41dcfee0369602df/23.6.24%20(DataSet).xlsx) with the following columns:
