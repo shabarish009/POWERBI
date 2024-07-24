@@ -5,7 +5,7 @@ This repository contains a dataset of sales orders and a Power BI visualization 
 
 ## Visualization
 
-[Find the visualization here.](https://github.com/shabarish009/POWERBI/blob/0694e4a8b8ceb1c3474e3a09bf25d23fc1dd5839/Visualization.pbix)
+[Find the visualization here.](https://github.com/shabarish009/POWERBI/blob/ee822b0b0c268b6dc0b2d93c9dfb14c6405bc1f8/Visualization.pbix)
 
 ## Dataset
 
